@@ -1,15 +1,15 @@
-#Codiad Compass
+# Codiad Compass
 
 Compass commands integration plugin for [Codiad IDE](https://github.com/Codiad/Codiad)
 
-##Requirements
-- [Compass](http://compass-style.org/)
+## Requirements
+- [Compass](http://compass-style.org/)(offline) but source available on [github](https://github.com/Compass/compass)
 
-##Installation
+## Installation
 
 - Download the zip file and unzip it to your plugin folder.
 
-##Features
+## Features
 
 - Create
 - Compile
@@ -17,14 +17,14 @@ Compass commands integration plugin for [Codiad IDE](https://github.com/Codiad/C
 - Watch
 - Log window
 
-##To do
+## To do
 
 - Internationalization
 
-#Contact
+# Contact
 
 Twitter: [@Vini_Gerevini](http://twitter.com/vini_gerevini)
 
-##License
+## License
 
 [MIT license](http://www.opensource.org/licenses/mit-license.php)
